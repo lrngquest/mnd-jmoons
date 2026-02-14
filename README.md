@@ -42,7 +42,7 @@ Clojurescript sources are lightly modified Clojure files from project [jmoons-ev
     ```
 
 ## Usage
-Open the page  https://lrngquest.github.io/min-dep-webjmoons/ and a visualization of the four Galilean moons will appear, initialized at OO:OO UTC on the date when the page was opened. Simulated time is updated as the moon positions and shadows change, continuing until the page is closed.
+Open the page  https://lrngquest.github.io/mnd-jmoons/ and a visualization of the four Galilean moons will appear, initialized at OO:OO UTC on the date when the page was opened. Simulated time is updated as the moon positions and shadows change, continuing until the page is closed.
 
 ### Limitations
 Unlike jmoons-events there are no controls yet for run,stop  or stepping simulated time.
